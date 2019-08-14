@@ -25,6 +25,6 @@
 | uMain.pas | Main view of the programme |
 | uFrame1.pas| First Frame of the programme |
 | uFrame2.pas| Second Frame of the programme |
-| Frame_TabControl.dpk | The compiler project file |
-| Frame_TabControl.dproj | The MSBUILD project file |
+| TabControl.dpk | The compiler project file |
+| TabControl.dproj | The MSBUILD project file |
 | README.md | The readme for this project |

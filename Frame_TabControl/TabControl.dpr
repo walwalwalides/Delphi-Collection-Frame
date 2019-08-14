@@ -1,4 +1,4 @@
-program Frame_TabControl;
+program TabControl;
 
 uses
   Vcl.Forms,
