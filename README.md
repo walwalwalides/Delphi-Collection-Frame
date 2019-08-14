@@ -9,7 +9,7 @@ My Own Delphi-Collection ( Frame )
 | File | Contents | 
 | --- | --- |
 | .gitignore | Git ignores the files in this file |
-|[Frame_TabControl](https://github.com/walwalwalides/Delphi-Collection-Frame/tree/master/Frame_TabControl)| Use Frame inside Tabcontrol|
+|[Frame_TabControl](https://github.com/walwalwalides/Delphi-Collection-Frame/tree/master/Frame_TabControl)| Use Different Frames inside a Tab Control|
 
 | README.md | The readme for this project|
 
