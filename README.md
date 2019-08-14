@@ -1,6 +1,6 @@
 # Delphi-Collection-Frame
 My Own Delphi-Collection ( Frame ) 
-![](Delphi-Collection-Frame.png)
+![](Delphi-Collection-Frame.jpg)
 **Authors:**  *WalWalWalides*
 ------
 
